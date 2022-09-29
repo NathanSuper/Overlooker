@@ -1,2 +1,2 @@
 # Overlooker
-Git repo for csc130's client project
+Git repo for csc131's client project
